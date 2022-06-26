@@ -15,22 +15,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    margin-left: 10px;
     width: 145px;
     height: 74px;
     
 }
-.btn2{
-    color: white;
-    background-color: #FF6347;
-    border-radius: 10px;
-    font-weight: 800;
-    border: white;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10px;
-    width: 145px;
-    height: 74px;  
-}
+
