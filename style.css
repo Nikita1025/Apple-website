@@ -40,7 +40,7 @@
   padding-right: 10px;
 }
 .title: last-child,
-  .subtitle: last-child,
-  .btn: last-child {
+.subtitle: last-child,
+.btn: last-child {
   margin-bottom: 0;
 }
