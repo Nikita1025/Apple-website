@@ -20,7 +20,7 @@
 .title {
   margin-top: 0;
   font-size: 40px;
-  line-height: 42px;
+  line-height: 1.1;
   color: #ffffff;
   margin-bottom: 15px;
 }
@@ -28,7 +28,7 @@
   margin-top: 0;
   margin-bottom: 21px;
   font-size: 24px;
-  line-height: 30px;
+  line-height: 0.8;
   color: #c0c0c0;
 }
 .btn {
@@ -39,7 +39,7 @@
   color: #000000;
   background-color: #ffffff;
   text-decoration: none;
-  line-height: 20px;
+  line-height: 1.5;
   letter-spacing: 0.4px;
   padding: 12px 10px;
 }
