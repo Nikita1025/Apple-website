@@ -51,3 +51,48 @@
 .btn: last-child {
   margin-bottom: 0;
 }
+@media (min-width: 0) {
+  .container {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .subtitle {
+    font-size: 16px;
+  }
+  .btn {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .title {
+    font-size: 32px;
+  }
+  .subtitle {
+    font-size: 20px;
+  }
+  .btn {
+    font-size: 12px;
+  }
+}
+@media (min-width: 1020px) {
+  .container {
+    padding-top: 120x;
+    padding-bottom: 120px;
+  }
+  .title {
+    font-size: 40px;
+  }
+  .subtitle {
+    font-size: 24px;
+  }
+  .btn {
+    font-size: 12px;
+  }
+}
