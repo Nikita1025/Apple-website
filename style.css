@@ -116,13 +116,13 @@
   right: 372px;
   top: 310px;
 }
-.bt: last-child,
-.gear: last-child,
-.text: last-child,
-.tools: last-child,
-.title: last-child,
-.subtitle: last-child,
-.btn: last-child {
+.bt :last-child,
+.gear :last-child,
+.text:last-child,
+.tools:last-child,
+.title:last-child,
+.subtitle:last-child,
+.btn:last-child {
   margin-bottom: 0;
 }
 /*mobile*/
