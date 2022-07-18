@@ -78,6 +78,7 @@
   margin-bottom: 21px;
   font-size: 24px;
   line-height: 1.2;
+
   color: #c0c0c0;
 }
 .btn {
@@ -88,12 +89,17 @@
   color: #000000;
   background-color: #ffffff;
   text-decoration: none;
+
   line-height: 1.2;
+
+ 
+
   letter-spacing: 0.4px;
   padding: 12px 10px;
 }
 .img {
   margin-right: 6px;
+
 }
 .photo {
   width: 50%;
@@ -164,6 +170,7 @@
 .img {
   display: none;
 }
+
 .content {
   text-align: center;
   padding-top: 48px;
@@ -183,6 +190,7 @@
   width: 100%;
   height: 300px;
 }
+
 
 @media (min-width: 768px) {
   .container {
@@ -221,6 +229,7 @@
     height: 100%;
     width: 100%;
   }
+
 }
 @media (min-width: 1020px) {
   .container {
@@ -236,6 +245,7 @@
   .btn {
     font-size: 16px;
   }
+
   .content {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -250,4 +260,5 @@
   .text {
     font-size: 14px;
   }
+
 }
