@@ -31,8 +31,7 @@
 
   padding-left: 100px;
 }
-.photo {
-}
+
 .gear {
   margin-top: 0;
   font-size: 14px;
@@ -102,25 +101,48 @@
   margin-right: 6px;
 
 }
+.photo {
+  width: 50%;
+}
 .image1 {
-  position: relative;
-  right: 415px;
-  top: 310px;
+  position: absolute;
+  right: 290px;
+  top: 484px;
 }
 .image2 {
-  position: relative;
-  right: 370px;
-  top: 310px;
+  position: absolute;
+  right: 229px;
+  top: 484px;
 }
 .image3 {
-  position: relative;
-  right: 375px;
-  top: 310px;
+  position: absolute;
+  right: 147px;
+  top: 484px;
 }
 .image4 {
-  position: relative;
-  right: 372px;
-  top: 310px;
+  position: absolute;
+  right: 94px;
+  top: 484px;
+}
+.text1 {
+  position: absolute;
+  right: 261px;
+  top: 483px;
+}
+.text2 {
+  position: absolute;
+  right: 195px;
+  top: 483px;
+}
+.text3 {
+  position: absolute;
+  right: 120px;
+  top: 483px;
+}
+.text4 {
+  position: absolute;
+  right: 40px;
+  top: 4843px;
 }
 .bt :last-child,
 .gear :last-child,
@@ -204,10 +226,8 @@
     font-size: 14px;
   }
   .im {
-    /*order: 1;*/
-
     height: 100%;
-    width: 50%;
+    width: 100%;
   }
 
 }
